@@ -1,0 +1,15 @@
+Accept:
+
+javascript:for( i = 1;i< document.getElementsByName("actions[accept]").length;i++){document.getElementsByName("actions[accept]")[i].click();}void(0);
+ 
+Huy Loi moi KB da gui: https://m.facebook.com/friends/center/requests/outgoing/?hc_location=ufi#friends_center_main
+
+javascript:var x=document.getElementsByClassName("_55sr");for(var i=0;i<x.length;i++){if (x[i].innerHTML=='Hủy'){x[i].click();}};
+
+
+Minh Thành
+
+035 916 1228
+100034090621870
+
+8 tháng 1ádasnfsdivhndsjmjndvjdjkvsksd

@@ -1,0 +1,11 @@
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\bin\Debug\SimplePhotoViewer.exe.config
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\bin\Debug\SimplePhotoViewer.exe
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\bin\Debug\SimplePhotoViewer.pdb
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.csproj.AssemblyReference.cache
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.Form1.resources
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.Properties.Resources.resources
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.csproj.GenerateResource.cache
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.csproj.CoreCompileInputs.cache
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.exe
+D:\HOCTAP\OPP\VS\SimplePhotoViewer\SimplePhotoViewer\obj\Debug\SimplePhotoViewer.pdb

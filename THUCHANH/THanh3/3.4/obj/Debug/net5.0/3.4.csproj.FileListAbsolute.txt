@@ -1,0 +1,16 @@
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.csproj.AssemblyReference.cache
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.AssemblyInfoInputs.cache
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.AssemblyInfo.cs
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.csproj.CoreCompileInputs.cache
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\3.4.exe
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\3.4.deps.json
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\3.4.runtimeconfig.json
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\3.4.runtimeconfig.dev.json
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\3.4.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\ref\3.4.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\bin\Debug\net5.0\3.4.pdb
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\ref\3.4.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.pdb
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh3\3.4\obj\Debug\net5.0\3.4.genruntimeconfig.cache

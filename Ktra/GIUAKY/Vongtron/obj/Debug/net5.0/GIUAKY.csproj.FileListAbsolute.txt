@@ -1,0 +1,16 @@
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.csproj.AssemblyReference.cache
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.AssemblyInfoInputs.cache
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.AssemblyInfo.cs
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.csproj.CoreCompileInputs.cache
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\GIUAKY.exe
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\GIUAKY.deps.json
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\GIUAKY.runtimeconfig.json
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\GIUAKY.runtimeconfig.dev.json
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\GIUAKY.dll
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\ref\GIUAKY.dll
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\bin\Debug\net5.0\GIUAKY.pdb
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.dll
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\ref\GIUAKY.dll
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.pdb
+C:\Users\Kah\Desktop\OPP\Ktra\GIUAKY\Vongtron\obj\Debug\net5.0\GIUAKY.genruntimeconfig.cache

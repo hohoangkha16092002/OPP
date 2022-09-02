@@ -1,0 +1,11 @@
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\bin\Debug\DrawShapes.exe.config
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\bin\Debug\DrawShapes.exe
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\bin\Debug\DrawShapes.pdb
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.csproj.AssemblyReference.cache
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.frmDrawShapes.resources
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.csproj.GenerateResource.cache
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.csproj.CoreCompileInputs.cache
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.exe
+D:\HOCTAP\OPP\VS\ThamKhao\DrawShapes\obj\Debug\DrawShapes.pdb

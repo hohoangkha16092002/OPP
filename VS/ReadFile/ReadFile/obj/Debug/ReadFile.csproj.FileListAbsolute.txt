@@ -1,0 +1,11 @@
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.SuggestedBindingRedirects.cache
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.Properties.Resources.resources
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.GenerateResource.cache
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.pdb
+D:\HOCTAP\OPP\VS\ReadFile\ReadFile\obj\Debug\ReadFile.Reader.resources

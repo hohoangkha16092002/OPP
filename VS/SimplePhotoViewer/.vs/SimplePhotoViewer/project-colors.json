@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14a285b6-4112-4f54-8e2e-088749997fe8": {
+      "ProjectGuid": "14a285b6-4112-4f54-8e2e-088749997fe8",
+      "DisplayName": "SimplePhotoViewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

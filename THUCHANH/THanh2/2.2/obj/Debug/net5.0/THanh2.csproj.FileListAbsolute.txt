@@ -1,0 +1,16 @@
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\THanh2.exe
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\THanh2.deps.json
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\THanh2.runtimeconfig.json
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\THanh2.runtimeconfig.dev.json
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\THanh2.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\ref\THanh2.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\bin\Debug\net5.0\THanh2.pdb
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.csproj.AssemblyReference.cache
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.AssemblyInfoInputs.cache
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.AssemblyInfo.cs
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.csproj.CoreCompileInputs.cache
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\ref\THanh2.dll
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.pdb
+C:\Users\Kah\Desktop\OPP\THUCHANH\THanh2\2.2\obj\Debug\net5.0\THanh2.genruntimeconfig.cache

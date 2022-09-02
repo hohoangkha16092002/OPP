@@ -1,0 +1,5 @@
+D:\HOCTAP\OPP\Ktra\CUOIKY\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\HOCTAP\OPP\Ktra\CUOIKY\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOCTAP\OPP\Ktra\CUOIKY\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\HOCTAP\OPP\Ktra\CUOIKY\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\HOCTAP\OPP\Ktra\CUOIKY\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
